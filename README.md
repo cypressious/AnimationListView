@@ -10,6 +10,8 @@ Custom ListView with easily animated insertions, deletions and permutations.
 
 ## Adding to your project
 
+AnimationListView is using NineOldAndroid and is compatible with Android 2.2+.
+
 Add the project as android library and add this to your xml layout:
 
     <de.busliniensuche.android.view.AnimationListView
@@ -18,7 +20,7 @@ Add the project as android library and add this to your xml layout:
         android:layout_height="match_parent">
     </de.busliniensuche.android.view.AnimationListView>
     
-AnimationListView is using NineOldAndroid and is compatible with Android 2.2+.
+You adapter **must** have stable ids. Otherwise the animations won't work.
     
 ## Making modifications to the list
 

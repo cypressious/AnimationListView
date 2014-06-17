@@ -7,6 +7,7 @@ Custom ListView with easily animated insertions, deletions and permutations.
 
 ![](https://raw.githubusercontent.com/cypressious/AnimationListView/master/gifs/permutate.gif "Animated permutations")
 
+The screenshots are from the app "Busliniensuche" (https://play.google.com/store/apps/details?id=de.raumobil.android.busliniensuche) made by me.
 
 ## Adding to your project
 
